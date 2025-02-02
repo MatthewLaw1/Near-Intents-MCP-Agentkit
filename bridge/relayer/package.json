@@ -1,0 +1,15 @@
+{
+  "name": "near-intents-relayer",
+  "version": "1.0.0",
+  "description": "Relayer service for Near Intents cross-chain bridge",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ethers": "^6.8.0",
+    "near-api-js": "^2.1.4",
+    "dotenv": "^16.3.1"
+  }
+}
