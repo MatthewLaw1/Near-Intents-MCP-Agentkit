@@ -1,9 +1,20 @@
 # Crew AI MCP Server
 
+[![smithery badge](https://smithery.ai/badge/@MatthewLaw1/Near-Intents-MCP-Agentkit)](https://smithery.ai/server/@MatthewLaw1/Near-Intents-MCP-Agentkit)
+
 An MCP server that provides AI agent and task management capabilities using the CrewAI framework.
 
 ## Setup
 
+### Installing via Smithery
+
+To install Crew AI MCP Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@MatthewLaw1/Near-Intents-MCP-Agentkit):
+
+```bash
+npx -y @smithery/cli install @MatthewLaw1/Near-Intents-MCP-Agentkit --client claude
+```
+
+### Manual Installation
 1. Clone or fork this repository
 2. Run the setup script:
 ```bash
